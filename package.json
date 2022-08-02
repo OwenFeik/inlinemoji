@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "./build.sh",
+        "clean": "./build.sh clean"
+    },
+    "dependencies": {
+        "discord-emoji": "^2.0.5"
+    }
+}
